@@ -1,6 +1,6 @@
 # Jest structured clone issue repro
 
-This shows an issue with `structuredClone` when running with Jest.
+This shows an [issue](https://github.com/jestjs/jest/issues/14947) with `structuredClone` when running with Jest.
 
 The core or the issue is the following code:
 
